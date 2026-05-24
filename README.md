@@ -3,7 +3,7 @@
 This project focuses on regression analysis to predict the age of crabs based on physical measurements, utilizing data from the **2025 Kaggle Playground Series (Season 3, Episode 16)**. By applying targeted feature engineering and regression modeling, the project aims to achieve high predictive accuracy.
 
 ### 🚀 Live Demo
-Explore the interactive prediction model here: https://huggingface.co/spaces/bdaser/Crab
+Explore the interactive prediction model here: **[Crab Age Prediction App](https://huggingface.co/spaces/bdaser/Crab)**
 
 ### 📊 Dataset & Preprocessing
 The dataset consists of 74,051 training entries and 49,368 test entries, covering features such as sex, length, diameter, height, and various weight metrics. Key processing steps include:
